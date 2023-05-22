@@ -1,0 +1,19 @@
+{
+  "name": "rightclick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "fetch": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nfteyez/sol-rayz": "^0.10.2",
+    "@solana/web3.js": "^1.43.1",
+    "axios": "^0.27.2"
+  }
+}
